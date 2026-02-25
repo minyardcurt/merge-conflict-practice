@@ -1,6 +1,6 @@
 # Merge Conflict Challenge
 
-This is my merge conflict practice.
+Branch A was here.
 Line 3 original text.
 Learning Git branching.
 This is going well.
